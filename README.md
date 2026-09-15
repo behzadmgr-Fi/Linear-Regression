@@ -40,7 +40,7 @@ The [California Housing dataset](https://www.kaggle.com/datasets/camnugent/calif
  
 `total_bedrooms` alone explains **~80.8%** of the variance in `population`, and predictions are typically off by about **504 people**. The fitted line: `population ≈ 155.68 + 2.36 × total_bedrooms`.
  
-![Regression fit](docs/regression_plot.png)
+![Regression fit](regression_plot.png)
 *Actual population values (blue) vs. the fitted regression line (red) on the test set.*
  
 ## Conclusion
