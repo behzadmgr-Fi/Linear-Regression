@@ -89,7 +89,8 @@ y_pred = model.predict(X_test)
  
 ```
 .
-├── notebook.ipynb         # Full analysis notebook
+├── Linear Regression
+.ipynb         # Full analysis notebook
 ├── data/
 │   └── housing.csv        # California Housing dataset
 ├── docs/
